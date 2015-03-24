@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d9768b7f750b27c4bd54847f389c11d18eacd56c">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-1e62fe9acdc18c9095ddfb00ed6874029df1f7f8.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-74bbd3de8e799990720feeace1cf56c9396c5122.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-e35b04c62066645fc186cd4bd590e45f42dd865e.jar" />
+    </item>
+    <item
+        jar="/Developer/SDKs/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-b895b9cf8e9b2b4ed3ed41581465cec3c7964497.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-479091dfd8ce786585e31777e695145c0d77b147.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-d781fc715166432c3e81686319079bead46ae95b.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/TypeANumber/build/intermediates/pre-dexed/debug/classes-1776fc8aa8e462650701b76f7f92de8693e2db08.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-0589c0081583aa721dd58aea27b46b6970caa3d8.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/BasicSamples.libraries/BaseGameUtils/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="d9768b7f750b27c4bd54847f389c11d18eacd56c">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-f81e0f1467de97def23d49b0a54373ce75102e8c.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.google.android.gms/play-services/6.5.87/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="dd9247ea0fabe8ee479638c4b4a23e93752be256">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-dd0bd9722b395030aed667fe8786415cb482f698.jar" />
+    </item>
+    <item
+        jar="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.0.0"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Users/clubdemer/Desktop/Classes S15/CS460/android-basic-samples-master/BasicSamples/SkeletonTbmp/build/intermediates/pre-dexed/debug/classes-96808dd722204d4d6a163041e89978da732894c6.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,35 @@
+apply plugin: 'android'
+
+android {
+    enforceUniquePackageName=false
+
+    compileSdkVersion android_compile_version
+    buildToolsVersion android_version
+
+
+    defaultConfig {
+        minSdkVersion android_min_sdk_version
+        targetSdkVersion android_compile_version
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile project(':libraries:BaseGameUtils')
+    compile android_appcompat_library
+    compile android_support_library
+    compile android_gms_library
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+}
