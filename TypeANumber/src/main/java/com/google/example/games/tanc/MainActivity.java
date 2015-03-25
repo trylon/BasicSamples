@@ -68,7 +68,7 @@ public class MainActivity extends FragmentActivity
 
     // Automatically start the sign-in flow when the Activity starts
     private boolean mAutoStartSignInFlow = true;
-//mmmm
+
     // request codes we use when invoking an external activity
     private static final int RC_RESOLVE = 5000;
     private static final int RC_UNUSED = 5001;
